@@ -15,4 +15,6 @@ Clave: no existía el concepto de "pecado" en sentido monoteísta, sino el de hi
 Ejemplo: No se trata simplemente de un defecto moral, sino de una transgresión grave contra el orden cósmico y la moira (el destino o la parte que le corresponde a cada ser), actuando como lo opuesto a la moderación y la prudencia.
 ### 6) Daimon (δαίμων) (daimonion): era una voz interior o señal divina que nunca le indicaba qué hacer, sino que solo le advertía o disuadía cuando estaba a punto de cometer un error o actuar incorrectamente. 
 Clave: Para Sócrates, el silencio de esta voz era interpretado como una aprobación divina de su conducta.
-### 7) 
+### 7) Eudamaimonia: la condición de prosperar o vivir bien, entendida como la plena realización humana alcanzada a través de la virtud y la actividad conforme a la excelencia.
+Clave: no es solo sentir placer o evitar el dolor, sino cumplir el *telos* propio del ser humano mediante el ejercicio de la razón y las virtudes.
+Ejemplo: para Aristóteles, una persona eudaimón no es la que acumula placeres, sino la que actúa con justicia, sabiduría y templanza de modo sostenido a lo largo de toda su vida.
