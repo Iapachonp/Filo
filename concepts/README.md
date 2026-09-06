@@ -18,3 +18,6 @@ Clave: Para Sócrates, el silencio de esta voz era interpretado como una aprobac
 ### 7) Eudamaimonia: la condición de prosperar o vivir bien, entendida como la plena realización humana alcanzada a través de la virtud y la actividad conforme a la excelencia.
 Clave: no es solo sentir placer o evitar el dolor, sino cumplir el *telos* propio del ser humano mediante el ejercicio de la razón y las virtudes.
 Ejemplo: para Aristóteles, una persona eudaimón no es la que acumula placeres, sino la que actúa con justicia, sabiduría y templanza de modo sostenido a lo largo de toda su vida.
+### 8) Eutarquia: el buen orden o recto gobierno de un todo —alma, ciudad o cosmos— mediante el cual cada parte ocupa su lugar y cumple su función propia.
+Clave: *eu-* (bien) y *-arquía* (gobierno o dominio); no es mera obediencia, sino la armonía entre lo que dirige y lo que es dirigido, ya sea en uno mismo o en la comunidad.
+Ejemplo: en Platón, la justicia es una eutarquía del alma cuando la razón gobierna, el espíritu la apoya y los apetitos obedecen; de igual modo, una ciudad es justa cuando cada clase realiza la tarea que le corresponde.
