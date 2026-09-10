@@ -21,3 +21,6 @@ Ejemplo: para Aristóteles, una persona eudaimón no es la que acumula placeres,
 ### 8) Eutarquia: el buen orden o recto gobierno de un todo —alma, ciudad o cosmos— mediante el cual cada parte ocupa su lugar y cumple su función propia.
 Clave: *eu-* (bien) y *-arquía* (gobierno o dominio); no es mera obediencia, sino la armonía entre lo que dirige y lo que es dirigido, ya sea en uno mismo o en la comunidad.
 Ejemplo: en Platón, la justicia es una eutarquía del alma cuando la razón gobierna, el espíritu la apoya y los apetitos obedecen; de igual modo, una ciudad es justa cuando cada clase realiza la tarea que le corresponde.
+### 9) Ataraxia: estado de imperturbabilidad y serenidad del alma, libre de inquietudes, temores y perturbaciones; para el epicureísmo, la felicidad consiste en la ausencia de dolor en el cuerpo y de turbación en el alma.
+Clave: no es insensibilidad, sino equilibrio interno al no dejarse arrastrar por deseos vacíos ni opiniones alarmantes.
+Ejemplo: Epicuro sostenía que la ataraxia se alcanza viviendo con pocas necesidades naturales, evitando placeres intensos que generen dependencia, y aceptando que la muerte no nos afecta.
